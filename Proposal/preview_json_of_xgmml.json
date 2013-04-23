@@ -1,0 +1,17 @@
+[
+    { data: {
+                "id":"YKR026C",
+                "label":"YBR043C",
+                "gal1RGexp":0.454,
+                "GO Cellular Component":["cell", "cell part"],
+                "graphics":{"width":"1",
+                            "fill":"#fcfffd",
+                            "cytoscapeNodeGraphicsAttributes":{
+                                                                "nodeTransparency":"1.0",
+                                                                "nodeLabelFont":"Default-0-12"
+                                                              }
+                            }
+            },
+      "group": "nodes"
+    }
+]

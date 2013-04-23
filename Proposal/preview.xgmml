@@ -1,0 +1,13 @@
+<node id="-331" label="YBR043C">
+    <att label="gal1RGexp" name="gal1RGexp" value="0.454" type="real"/>
+    <att label="GO Cellular Component" name="GO Cellular Component" type="list">
+        <att value="cell" type="string"/>
+        <att value="cell part" type="string"/>
+    </att>
+    <graphics width="1" fill="#fcfffd">
+        <att name="cytoscapeNodeGraphicsAttributes">
+            <att name="nodeTransparency" value="1.0"/>
+            <att name="nodeLabelFont" value="Default-0-12"/>
+        </att>
+    </graphics>
+</node>
